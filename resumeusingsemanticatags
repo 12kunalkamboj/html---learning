@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1>kunal kamboj </h1>
+    <address>
+  <b>Address:</b> Delhi, Anand Vihar <br>
+  <b>Email:</b> kunalkamboj@gmail.com
+</address>
+  </header>
+  <main>
+    <section>
+      <h2>objective</h2>
+      <p>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.</p>
+    </section>
+    <section>
+      <h2>education</h2>
+      <ul>
+        <li>Bachelor of Technology in Computer Science - XYZ University (2020-2024)</li>
+        <li>High School Diploma - ABC School (2018-2020)</li>
+      </ul>
+    </section>
+    <section>
+      <h2>skills</h2>
+      <ul>
+        <li>Programming Languages: Python, Java, C++</li>
+        <li>Web Development: HTML, CSS, JavaScript</li>
+        <li>Database Management: MySQL, MongoDB</li>
+      </ul>
+    </section>
+    <section>
+      <h2>projects</h2>
+      <ul>
+        <li>Project 1: E-commerce Website - Developed a full-stack e-commerce website using React and Node.js.</li>
+        <li>Project 2: Chat Application - Created a real-time chat application using Socket.io and Express.js.</li>
+      </ul>
+    </section>
+    <section>
+      <h2>experience</h2>
+      <ul>
+        <li>Internship at Tech Solutions (June 2023 - August 2023): Assisted in developing web applications and improving user interfaces.</li>
+        <li>Part-time Developer at WebWorks (January 2022 - May 2023): Worked on front-end development and collaborated with the design team.</li>
+      </ul>
+    </section>
+    <section>
+      <h2>achievements</h2>
+      <ul>
+        <li>Winner of the Hackathon 2023</li>
+        <li>Top Performer in the Annual Coding Competition 2022</li>
+      </ul>
+    </section>
+  </main>
+   <footer>
+    <p>&copy; 2024 Kunal Kamboj. All rights reserved.</p> 
+   </footer>
+</body>
+</html>
